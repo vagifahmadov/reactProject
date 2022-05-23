@@ -1,0 +1,25 @@
+.header {
+    width: 100%;
+    background-color: #3F51B5;
+    height: 80px;
+    position: fixed;
+    z-index: 11;
+}
+
+.logoAsan {
+    margin-top: 3vh;
+}
+
+.userNmeStyle {
+    float: right;
+    margin-top: 5vh;
+    margin-right: 2vh;
+}
+
+.userNmeStyle a {
+    color: #fff;
+}
+
+.userNmeStyle a:hover {
+    color: #E4EBF7;
+}
